@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Roboto" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">font/robotobold.ttf</item>
+    </style>
+
+    <style name="sanssemi" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/worksanssemi</item>
+    </style>
+
+    <style name="robreg" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/robotoregular</item>
+    </style>
+
+    <style name="lato" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">font/latoregular.ttf</item>
+    </style>
+
+    <style name="robmed" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/robotomedium</item>
+    </style>
+
+    <style name="namaperusahaan" parent="Roboto">
+        <item name="android:textColor">@color/netralfont</item>
+        <item name="android:textSize">@dimen/dimen16</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="deskperusahaan" parent="lato">
+        <item name="android:textColor">@color/teksmini</item>
+        <item name="android:textSize">@dimen/dimen12</item>
+    </style>
+
+    <style name="deskperusahaanmed" parent="robmed">
+        <item name="android:textColor">@color/netralfont</item>
+        <item name="android:textSize">@dimen/dimen16</item>
+    </style>
+
+    <style name="deskperusahaanmed2" parent="robreg">
+        <item name="android:textColor">@color/netralfont</item>
+        <item name="android:textSize">@dimen/dimen14</item>
+    </style>
+
+    <style name="latoreg" parent="lato">
+        <item name="android:textColor">@color/abulah</item>
+        <item name="android:textSize">@dimen/dimen12</item>
+    </style>
+
+    <style name="sans" parent="sanssemi">
+        <item name="android:textSize">@dimen/dimen14</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+</resources>

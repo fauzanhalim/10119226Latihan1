@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/10119208Latihan1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3345" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/10119208Latihan1/app/src/main/res/drawable/bg_barmuda.xml" value="0.376" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/10119208Latihan1/app/src/main/res/drawable/bg_bartua.xml" value="0.376" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/10119208Latihan1/app/src/main/res/drawable/bg_top.xml" value="0.376" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/10119208Latihan1/app/src/main/res/drawable/bg_white.xml" value="0.376" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/10119208Latihan1/app/src/main/res/drawable/btn.xml" value="0.376" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/10119208Latihan1/app/src/main/res/drawable/frame_1.xml" value="0.376" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/10119208Latihan1/app/src/main/res/drawable/hijaubulan.xml" value="0.376" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/10119208Latihan1/app/src/main/res/drawable/hijauhijau.xml" value="0.376" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/10119208Latihan1/app/src/main/res/drawable/hijaumudabet.xml" value="0.376" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/10119208Latihan1/app/src/main/res/drawable/hijautuatua.xml" value="0.376" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/10119208Latihan1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.283" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/10119208Latihan1/app/src/main/res/drawable/ic_logodigi.xml" value="0.376" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/10119208Latihan1/app/src/main/res/drawable/ic_vector.xml" value="0.376" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/10119208Latihan1/app/src/main/res/drawable/kotakhijauapalagi.xml" value="0.376" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/10119208Latihan1/app/src/main/res/drawable/kotakhijaumudabet.xml" value="0.376" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/10119208Latihan1/app/src/main/res/drawable/kotaklaporan.xml" value="0.376" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/10119208Latihan1/app/src/main/res/drawable/kotaklaporanhijautua1.xml" value="0.376" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/10119208Latihan1/app/src/main/res/drawable/kotaklaporantua.xml" value="0.376" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/10119208Latihan1/app/src/main/res/drawable/kotaknetral.xml" value="0.376" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/10119208Latihan1/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/FAUZAN HALIM/Downloads/10119226Latihan1-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2265" />
+        <entry key="..\:/Users/FAUZAN HALIM/Downloads/10119226Latihan1-master/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/FAUZAN HALIM/Downloads/10119226Latihan1-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2265" />
+        <entry key="..\:/Users/FAUZAN HALIM/Downloads/10119226Latihan1-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2265" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

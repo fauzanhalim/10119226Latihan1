@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape android:shape="rectangle">
+            <size android:height="28dp"
+                android:width="28dp"/>
+            <corners android:radius="@dimen/dimen2"/>
+            <solid android:color="@color/hijautuabanget"/>
+        </shape>
+    </item>
+
+</selector>
